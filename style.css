@@ -8,29 +8,19 @@
     padding: 0;
 }
 
-
-main {
-    background-color: hsl(212, 45%, 89%);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 .container {
-    width: 800px;
     align-items: center;
-    border-radius: 5px;
     color: white; 
     margin-left: auto;
     margin-right: auto;
-    margin-top: 7rem;
-    
+    margin: 5rem;
+    text-align: left;
+    padding: 0px 15rem;
 }
 
 p {
     font-family: 'Lexend Deca', sans-serif;
     margin-bottom: 3rem;
-
 }
 
 h2 {
@@ -40,7 +30,7 @@ h2 {
 }
 
 .sedans, .suvs, .luxury {
-    padding: 2.5rem;
+    padding: 2rem;
     border: 0px;
 }
 .sedans{
